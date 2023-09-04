@@ -1,12 +1,12 @@
 {
-  "homepage": "https://ABDULLAHRH1.github.io/<your-repository-name>/",
+  "homepage": "https://abdullahrh1.github.io/React-Tailwind-Nike/",
   "name": "nike-2-0",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",

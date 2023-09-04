@@ -6,3 +6,4 @@ export default defineConfig({
   base: "/React-Tailwind-Nike/", // Set the base path to match your repository name
   plugins: [react()],
 });
+
