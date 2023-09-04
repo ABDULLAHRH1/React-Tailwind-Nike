@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://abdullahrh1.github.io/React-Tailwind-Nike/",
+=======
+  "homepage": "https://abdullahrh1.github.io/React-Tailwind-Nike",
+>>>>>>> 1e668fd1d2f935a18b772a6d88fe600c3c24f31d
   "name": "nike-2-0",
   "private": false,
   "version": "0.0.0",
