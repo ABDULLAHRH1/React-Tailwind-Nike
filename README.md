@@ -1,18 +1,29 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+<p align="center">
+  <img src="public/web.png" alt="Project Screenshot" />
+</p>
 
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+<h1 align="center">🚀 My Super Cool Website 🚀</h1>
 
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+<p align="center">
+  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
+</p>
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+<p align="center">
+  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Clean Design</strong> |
+  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Responsive Layout</strong> |
+  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
+  <strong>Smooth Animations</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/80/000000/tailwindcss--v2.png" alt="Tailwind CSS" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
+  </a>
+  <img src="https://img.icons8.com/color/80/000000/github--v1.png" alt="GitHub" />
+</p>
