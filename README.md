@@ -36,4 +36,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1//React-Tailwind-Nike.git
+   git clone https://github.com/ABDULLAHRH1/React-Tailwind-Nike.git
