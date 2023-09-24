@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
-  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
+🎨 Elegant Design | 📱 Mobile-Friendly | ✨ Seamless Animations
 </p>
 
 <p align="center">
