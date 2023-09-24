@@ -8,13 +8,8 @@
   A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
+  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
 <p align="center">
